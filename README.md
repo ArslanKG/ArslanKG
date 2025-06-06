@@ -252,7 +252,7 @@ const arslanKemal = {
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/ArslanKG/ArslanKG/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ArslanKG/metrics/blob/master/github-profile-setup/snake-animation.yml)
 
 ### 🌙 Dark Mode Snake
 
