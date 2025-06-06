@@ -94,16 +94,6 @@ const arslan = {
 
 ---
 
-## 🏆 GitHub Başarılarım
-
-<div align="center">
-
-![Achievements](https://github.com/ArslanKG/ArslanKG/blob/main/metrics-achievements.svg)
-
-</div>
-
----
-
 ## 📈 Son Aktivitelerim
 
 <div align="center">
