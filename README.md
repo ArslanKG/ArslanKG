@@ -19,8 +19,8 @@
 ```typescript
 const arslanKemal = {
     name: "Arslan Kemal GÜNDÜZ",
-    location: "Istanbul, Turkey",
-    title: "Full Stack Developer & AI Solutions Architect",
+    location: "Eskişehir, Turkey",
+    title: "Full Stack Developer",
     company: "Arkegu AI",
     website: "https://arkegu-portfolio.vercel.app",
     
