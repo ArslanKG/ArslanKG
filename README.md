@@ -176,26 +176,6 @@ const arslanKemal = {
 </table>
 ---
 
-## 📌 İlgi Alanlarım
-
-<div align="center">
-
-![Topics](https://github.com/ArslanKG/ArslanKG/blob/main/metrics-topics.svg)
-
-</div>
-
----
-
-## 🤝 Topluluk
-
-<div align="center">
-
-![People](https://github.com/ArslanKG/ArslanKG/blob/main/metrics-people.svg)
-
-</div>
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
