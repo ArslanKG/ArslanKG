@@ -118,16 +118,6 @@ const arslanKemal = {
 
 ---
 
-## 🏆 GitHub Başarılarım
-
-<div align="center">
-
-![Achievements](https://github.com/ArslanKG/ArslanKG/blob/main/metrics-achievements.svg)
-
-</div>
-
----
-
 ## 📈 Son Aktivitelerim
 
 <div align="center">
@@ -185,19 +175,6 @@ const arslanKemal = {
 </td>
 </tr>
 </table>
-
-### 🔧 Diğer Projeler
-
-<div align="center">
-
-| Proje | Teknoloji | Açıklama | Status |
-|-------|-----------|----------|--------|
-| **MCP Server** | Node.js, MCP Protocol | Model Context Protocol Implementation | 🚀 Active |
-| **Portfolio API** | .NET 8, Entity Framework | Backend services for portfolio | 🔄 Development |
-| **AI Chat Bot** | React, OpenAI API | Intelligent conversation system | 📋 Planning |
-
-</div>
-
 ---
 
 ## 📌 İlgi Alanlarım
@@ -269,18 +246,17 @@ const arslanKemal = {
 
 *"The best way to predict the future is to invent it."* - Alan Kay
 
-### 📊 Bu hafta ne yaptım?
+---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ArslanKG&label=Profile%20views&color=9333ea&style=flat" alt="Profile views" />
+### 🐍 Contribution Snake
 
-⭐️ **Bu projelerden hoşlandıysanız, repository'lere star vermeyi unutmayın!**
+![Snake animation](https://github.com/ArslanKG/ArslanKG/blob/output/github-contribution-grid-snake.svg)
 
-### 🔥 Contribution Streak
+### 🌙 Dark Mode Snake
 
-**Yazılım geliştirme sadece bir iş değil, yaşam tarzıdır! 💻✨**
+![Snake animation dark](https://github.com/ArslanKG/ArslanKG/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
