@@ -27,7 +27,7 @@ const arslanKemal = {
     currentFocus: ["AI Prompt Optimization", "React Development", ".NET Solutions"],
     technologies: {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: [".NET 8", "Node.js", "Express.js", "RESTful APIs"],
+        backend: [".NET 8", "Node.js", "RESTful APIs"],
         ai: ["Prompt Engineering", "Model Optimization", "MCP Servers"],
         database: ["SQL Server", "MongoDB", "PostgreSQL"],
         tools: ["Docker", "Git", "Azure", "Vercel"]
