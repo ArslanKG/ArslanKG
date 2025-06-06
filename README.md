@@ -35,8 +35,7 @@ const arslanKemal = {
     
     currentProjects: {
         "Portfolio Website": "Cyberpunk themed modern portfolio",
-        "Prompt Optimizer": "AI prompt optimization system",
-        "MCP Server": "Model Context Protocol implementation"
+        "Prompt Optimizer": "AI prompt optimization system"
     },
     
     interests: ["Artificial Intelligence", "Web Development", "Software Architecture"],
