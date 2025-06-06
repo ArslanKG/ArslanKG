@@ -259,8 +259,6 @@ const arslanKemal = {
 
 > **"İnovasyon, teknoloji ve sürekli öğrenme tutkusu ile yazılım geliştirme dünyasında fark yaratmaya odaklanıyorum."**
 
-**Açık kaynak projelerine katkı yapmayı, yeni teknolojileri keşfetmeyi ve toplulukla bilgi paylaşımında bulunmayı seviyorum!**
-
 </div>
 
 ---
@@ -286,12 +284,4 @@ const arslanKemal = {
 
 </div>
 
----
 
-<div align="center">
-
-**🚀 Building the future with AI & Technology | Istanbul, Turkey 🇹🇷**
-
-*Made with ❤️ and lots of ☕*
-
-</div>
