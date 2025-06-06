@@ -174,6 +174,7 @@ const arslanKemal = {
 - MCP Server Implementation
 - Multi-Model AI Strategy
 - Gerçek zamanlı chat arayüzü
+- **[🌐 Canlı Demo](https://arkeguai.vercel.app/)**
 
 **Özellikler:**
 - 🧠 7 farklı AI model desteği
