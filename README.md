@@ -159,14 +159,13 @@ const arslanKemal = {
 #### 🤖 [Prompt Optimizer](https://github.com/ArslanKG/prompt-optimizer-frontend)
 **AI Prompt Optimizasyon Sistemi**
 - React Frontend + .NET 8 Backend
-- MCP Server Implementation
 - Multi-Model AI Strategy
 - Gerçek zamanlı chat arayüzü
 - **[🌐 Canlı Demo](https://arkeguai.vercel.app/)**
 
 **Özellikler:**
 - 🧠 7 farklı AI model desteği
-- 🚀 Prompt optimizasyon algoritmaları
+- 🚀 Prompt optimizasyonu
 - 💬 Public chat (auth-free)
 - 📊 Model karşılaştırma tools
 
@@ -183,11 +182,9 @@ const arslanKemal = {
 
 **Özellikler:**
 - 🔐 Spotify & YouTube OAuth
-- 🎯 Akıllı şarkı eşleştirme
 - 📊 Real-time transfer progress
 - 🛡️ Rate limiting & security
 - 🐳 Docker containerization
-- 📈 Health monitoring
 
 </td>
 </tr>
