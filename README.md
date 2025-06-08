@@ -178,7 +178,7 @@ const arslanKemal = {
 - OAuth 2.0 Authentication
 - Smart Music Matching Algorithm
 - Docker Production Ready
-- **[🌐 Canlı Demo](https://tunesync-api.onrender.com)**
+- **[🌐 Canlı Demo](https://tunesync.onrender.com/)**
 
 **Özellikler:**
 - 🔐 Spotify & YouTube OAuth
