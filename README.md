@@ -134,11 +134,11 @@ const arslanKemal = {
 
 </div>
 
-### 💼 Ana Projelerim
+## 💼 Ana Projelerim
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 #### 🎨 [Arkegu Portfolio](https://github.com/ArslanKG/arkegu-portfolio)
 **Cyberpunk Temalı Modern Portfolio**
@@ -154,7 +154,7 @@ const arslanKemal = {
 - 📱 Fully responsive
 
 </td>
-<td width="50%">
+<td width="33%">
 
 #### 🤖 [Prompt Optimizer](https://github.com/ArslanKG/prompt-optimizer-frontend)
 **AI Prompt Optimizasyon Sistemi**
@@ -166,13 +166,33 @@ const arslanKemal = {
 
 **Özellikler:**
 - 🧠 7 farklı AI model desteği
-- 🚀 Prompt optimizasyon algoritmalar
+- 🚀 Prompt optimizasyon algoritmaları
 - 💬 Public chat (auth-free)
 - 📊 Model karşılaştırma tools
 
 </td>
+<td width="33%">
+
+#### 🎵 [TuneSync](https://github.com/ArslanKG/MusicTransferHub)
+**Playlist Transfer API**
+- ASP.NET Core 9.0 + React
+- OAuth 2.0 Authentication
+- Smart Music Matching Algorithm
+- Docker Production Ready
+- **[🌐 Canlı Demo](https://tunesync-api.onrender.com)**
+
+**Özellikler:**
+- 🔐 Spotify & YouTube OAuth
+- 🎯 Akıllı şarkı eşleştirme
+- 📊 Real-time transfer progress
+- 🛡️ Rate limiting & security
+- 🐳 Docker containerization
+- 📈 Health monitoring
+
+</td>
 </tr>
 </table>
+
 ---
 
 ## 📈 GitHub Stats
