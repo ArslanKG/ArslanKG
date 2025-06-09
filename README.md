@@ -30,7 +30,7 @@ const arslanKemal = {
         backend: [".NET 8", "Node.js", "RESTful APIs"],
         ai: ["Prompt Engineering", "Model Optimization", "MCP Servers"],
         database: ["SQL Server", "MongoDB", "PostgreSQL"],
-        tools: ["Docker", "Git", "Azure", "Vercel"]
+        tools: ["Docker", "Git", "Vercel"]
     },
     
     currentProjects: {
