@@ -177,7 +177,6 @@ const arslanKemal = {
 - ASP.NET Core 9.0 + React
 - OAuth 2.0 Authentication
 - Smart Music Matching Algorithm
-- Docker Production Ready
 - **[🌐 Canlı Demo](https://tunesync.onrender.com/)**
 
 **Özellikler:**
