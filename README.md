@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Merhaba, Ben Arslan Kemal GÜNDÜZ!
+# 👋 Merhaba, Ben Arslan Kemal GÜNDÜZ!!
 
 ### 🚀 Senior Full Stack Developer
 
