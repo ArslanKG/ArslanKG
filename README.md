@@ -83,12 +83,6 @@ const arslanKemal = {
 
 </div>
 
-### 🔥 Streak Stats
-<div align="center">
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArslanKG&theme=dark&background=000000)
-
-</div>
 
 ### 🈷️ En Çok Kullandığım Diller
 
@@ -103,14 +97,6 @@ const arslanKemal = {
 <div align="center">
 
 ![Calendar](https://github.com/ArslanKG/ArslanKG/blob/main/metrics-calendar.svg)
-
-</div>
-
-### 💡 Kodlama Alışkanlıklarım
-
-<div align="center">
-
-![Habits](https://github.com/ArslanKG/ArslanKG/blob/main/metrics-habits.svg)
 
 </div>
 
