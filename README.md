@@ -22,7 +22,7 @@ const arslanKemal = {
     location: "Eskişehir, Turkey",
     title: "Full Stack Developer",
     company: "Arkegu AI",
-    website: "https://arkegu-portfolio.vercel.app",
+    website: "https://arkegu.com.tr",
     
     currentFocus: ["AI Prompt Optimization", "React Development", ".NET Solutions"],
     technologies: {
